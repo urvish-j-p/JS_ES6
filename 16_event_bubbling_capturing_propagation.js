@@ -21,7 +21,6 @@ button.addEventListener("click",  (event) => {
 //button clicked
 //div clicked
 
-
 //Event capturing👇
 
 // div.addEventListener("click",  () => {
